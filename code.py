@@ -193,7 +193,7 @@ model.summary()
 #**********************************************
 
 batch_size = 8
-epochs =1
+epochs =40
 
 from tensorflow.keras.metrics import Precision, Recall
 from sklearn.metrics import accuracy_score, f1_score
